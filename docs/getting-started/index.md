@@ -1,6 +1,6 @@
 Follow these steps to get started
 
-1. Install WAVE Browser extension
+1. [Read about and install WAVE Browser extension](wave-browser-extension.md)
 2. [Perform WAVE audit](perform-wave-audit.md)
 
 
