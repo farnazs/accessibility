@@ -1,3 +1,16 @@
+# WAVE Known Accessibility Issue: Error - Broken ARIA reference
+- WAVE Category: Error
+- WAVE Error: Broken ARIA reference
+
+## Page Content Status
+- [ ] WAVE Error guidance text
+- [ ] Example of a DOM Snippet Generated From WAVE Tool
+- Project Team Error guidance
+   - [ ] Project Team Page Details
+   - [ ] Project Team Issue and PR details
+   - [ ] Project Team Solution
+- [ ] Credits/Authors
+
 ## WAVE Error guidance
 
 Click to see the WAVE Tool's Reference material on Broken ARIA reference. These guidelines may not specifically address your problem, but they might provide context for getting started.
@@ -37,15 +50,15 @@ An element has an aria-labelledby or aria-describedby value that does not match 
   <a id="cy-login-menu-item" class="link-0-1-13 lastItem-0-1-18" href="/login">Login</a>
 </span>
 ```
-## TDM Error guidance
+## Project Team Error guidance
 
 The following material covers how the TDM team has provided a solution to the Broken Aria reference WAVE error.
 
-### TDM Calculator Page Details
+### Project Page Details
 - TDM Page name: ALL
 - TDM Staging URL: N/A
 - Required User Role: ALL
-### TDM Calculator Issue and PR details
+### Project Team Issue and PR details
 - Related GitHub Issue(s):
   - https://github.com/hackforla/tdm-calculator/issues/2531
 - Related Pull Request(s):
@@ -54,7 +67,7 @@ The following material covers how the TDM team has provided a solution to the Br
 - React Component(s)
   - `client/src/components/Layout/NavBarLogin.jsx`
 
-### TDM Solution
+### Project Team Solution
 
 #### What is the specific problem that was occurring?
 Dismissing the NavBarLogin's popup removes the Popup component from the DOM, but it does not also purge the `aria-describedby="popup-1"` attribute from NavBarLogin. At that point, a screen reader may attempt to process the DOM element with `id="popup-1"`, which no longer exists, leading to the “Broken ARIA reference” error.
