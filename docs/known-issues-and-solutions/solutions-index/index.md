@@ -15,19 +15,14 @@
 | Category | Name | DOM snippit | Page Found on | Issue | PR | Solution
 | -- | -- | -- | -- | -- | -- | -- |
 Errors | [Missing form label](error-missing-form-label.md) | missing | TRUE | TRUE | TRUE | missing |
+Alerts | [Skipped heading level](alert-skipped-heading-level.md) | missing | TRUE | TRUE | TRUE | missing
 
 
 
 - Errors
   - 🟥 [Missing form label](error-missing-form-label.md)
 - Alerts
-  - ⚠️ Skipped heading level
-    - Issue: https://github.com/hackforla/tdm-calculator/issues/2716
-      - PR: https://github.com/hackforla/tdm-calculator/pull/2760
-    - Issue: https://github.com/hackforla/tdm-calculator/issues/2701
-      - PR: https://github.com/hackforla/tdm-calculator/pull/2779
-    - Issue: https://github.com/hackforla/tdm-calculator/issues/2705
-      - PR: https://github.com/hackforla/tdm-calculator/pull/2799
+  - ⚠️ [Skipped heading level](alert-skipped-heading-level.md)
   - Unknown (was called Broken Aria Reference but dosen't seem to be related to that).
     - no issue
       - PR: https://github.com/hackforla/tdm-calculator/pull/2786
