@@ -5,8 +5,6 @@
   - 🟥 [Error Empty Table Header](error-empty-table-header.md)
   - 🟥 [Error Broken ARIA reference](error-broken-aria-reference.md)
   - 🟥 [Error Empty Button](error-empty-button.md)
-- Contrast Errors
-  - 🚨 todo - add issues here
 - Alerts
   - ⚠️ [Alert Orphaned form label](alert-orphaned-form-label.md)
 
