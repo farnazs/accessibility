@@ -2,9 +2,9 @@
 - While conducting audits of the TDM Calculator, auditors should refer to the Known Issues index to confirm if we have encountered a specific WAVE Error
 - If a known issue cannot be found, then the auditor should use the WAVE: Known Accessibility Issue template specified on this page to create a new corresponding page
 
-##### Table of Contents
+##### Related Pages
 - [Wiki Page Template](https://github.com/hackforla/tdm-calculator/wiki/WCAG:-Known-Issues-and-Solutions#wiki-page-template)
-- [Accessibility Known Issues Index](https://github.com/hackforla/tdm-calculator/wiki/WCAG:-Known-Issues-and-Solutions#accessibility-known-issues-index)
+- [Accessibility Known Issues Index](/solutions-index)
 
 ---
 
@@ -167,39 +167,3 @@ The following material covers how the TDM team has provided a solution to the [E
 
 ````
 </details>
-
-## Accessibility Known Issues Index
-
-### Solutions Index
-- Errors
-  - 🟥 [WCAG: Error‐Empty Table Header](https://github.com/hackforla/tdm-calculator/wiki/WCAG:-Error%E2%80%90Empty-Table-Header)
-  - 🟥 [WCAG: Error‐Broken ARIA reference](https://github.com/hackforla/tdm-calculator/wiki/WCAG:-Error%E2%80%90Broken-ARIA-reference)
-  - 🟥 [WCAG: Error‐Empty Button](https://github.com/hackforla/tdm-calculator/wiki/WCAG:-Error%E2%80%90Empty-Button)
-- Contrast Errors
-  - 🚨 todo - add issues here
-- Alerts
-  - ⚠️ [WCAG: Alert‐Orphaned form label](https://github.com/hackforla/tdm-calculator/wiki/WCAG:-Alert%E2%80%90Orphaned-form-label)
-
-### Known Issues (Needs drafting and Wiki Pages)
-- Errors
-  - Missing form label
-    - Issue: https://github.com/hackforla/tdm-calculator/issues/2709
-      - PR: https://github.com/hackforla/tdm-calculator/pull/2803
-    - Issue: https://github.com/hackforla/tdm-calculator/issues/2697
-      - PR: https://github.com/hackforla/tdm-calculator/pull/2784
-- Alerts
-  - Skipped heading level
-    - Issue: https://github.com/hackforla/tdm-calculator/issues/2716
-      - PR: https://github.com/hackforla/tdm-calculator/pull/2760
-    - Issue: https://github.com/hackforla/tdm-calculator/issues/2701
-      - PR: https://github.com/hackforla/tdm-calculator/pull/2779
-    - Issue: https://github.com/hackforla/tdm-calculator/issues/2705
-      - PR: https://github.com/hackforla/tdm-calculator/pull/2799
-  - Broken Aria Reference
-    - no issue
-      - PR: https://github.com/hackforla/tdm-calculator/pull/2786
-
----
-
-## Other Related Pages
-- https://github.com/hackforla/tdm-calculator/wiki/Accessibility-Audits  
