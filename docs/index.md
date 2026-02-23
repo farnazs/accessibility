@@ -10,6 +10,7 @@
 - [TDM WAVE Audits](https://github.com/hackforla/tdm-calculator/wiki/Accessibility-Audits#tdm-wave-audits)
 
 ## Related page
+- [Getting Started](getting-started/index.md)
 - [Known Issues and Solutions](known-issues-and-solutions/solutions-index/index.md)
 - [Wiki and Issue Templates](templates/index.md)
 
