@@ -18,13 +18,8 @@ Errors | [Missing form label](error-missing-form-label.md) | missing | TRUE | TR
 Alerts | [Skipped heading level](alert-skipped-heading-level.md) | missing | TRUE | TRUE | TRUE | missing
 
 
-
-- Errors
-  - 🟥 [Missing form label](error-missing-form-label.md)
-- Alerts
-  - ⚠️ [Skipped heading level](alert-skipped-heading-level.md)
-  - Unknown (was called Broken Aria Reference but dosen't seem to be related to that).
-    - no issue
+- Unknown (was called Broken Aria Reference but dosen't seem to be related to that).
+   - no issue
       - PR: https://github.com/hackforla/tdm-calculator/pull/2786
      
 
