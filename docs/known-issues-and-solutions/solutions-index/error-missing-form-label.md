@@ -13,7 +13,7 @@
 
 ## WAVE Error guidance
 
-WAVE Tool's Reference material on [REPLACE WITH WAVE ERROR NAME] may not specifically address your problem.  We provide it here for optional reading.
+WAVE Tool's Reference material on Missing Form Label may not specifically address your problem.  We provide it here for optional reading.
 
 <details><summary>Click to see WAVE Tool Reference</summary>
 <p>
