@@ -30,6 +30,15 @@ WCAG: [REPLACE WITH WAVE CATEGORY]-[REPLACE WITH WAVE ERROR NAME]
 - WAVE Category: [REPLACE WITH WAVE CATEGORY]
 - WAVE Error: [REPLACE WITH WAVE ERROR NAME]
 
+## Page Content Status
+- [ ] WAVE Error guidance text
+- [ ] Example of a DOM Snippet Generated From WAVE Tool
+- [ ] Project Team Error guidance
+   - [ ] Project Team Page Details
+   - [ ] Project Team Issue and PR details
+   - [ ] Project Team Solution
+- [ ] Credits/Authors
+
 ## WAVE Error guidance
 
 WAVE Tool's Reference material on [REPLACE WITH WAVE ERROR NAME] may not specifically address your problem.  We provide it here for optional reading.
