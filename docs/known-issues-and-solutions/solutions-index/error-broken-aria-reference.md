@@ -3,13 +3,13 @@
 - WAVE Error: Broken ARIA reference
 
 ## Page Content Status
-- [ ] WAVE Error guidance text
-- [ ] Example of a DOM Snippet Generated From WAVE Tool
+- [X] WAVE Error guidance text
+- [X] Example of a DOM Snippet Generated From WAVE Tool
 - Project Team Error guidance
-   - [ ] Project Team Page Details
-   - [ ] Project Team Issue and PR details
-   - [ ] Project Team Solution
-- [ ] Credits/Authors
+   - [X] Project Team Page Details
+   - [X] Project Team Issue and PR details
+   - [X] Project Team Solution
+- [X] Credits/Authors
 
 ## WAVE Error guidance
 
