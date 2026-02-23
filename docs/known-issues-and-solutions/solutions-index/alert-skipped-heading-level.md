@@ -9,7 +9,7 @@
    - [X] Project Team Page Details
    - [X] Project Team Issue and PR details
    - [ ] Project Team Solution
-- [ ] Credits/Authors
+- [x] Credits/Authors
 
 ## WAVE Error guidance
 
