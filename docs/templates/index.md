@@ -19,7 +19,7 @@ Copy/paste this template into the new wiki page editor:
 <details><summary>Title</summary>
 
 ```
-WCAG: [REPLACE WITH WAVE CATEGORY]-[REPLACE WITH WAVE ERROR NAME]
+[REPLACE WITH WAVE CATEGORY]-[REPLACE WITH WAVE ERROR NAME]
 ```
 </details>
 
