@@ -7,7 +7,7 @@ The wiki pages created from this template will be used for future audits (across
 1. Replace all bracketed `[placeholders]` with actual content
 2. Update the date in `YYYY-MM-DD` format
 3. Fill in the WAVE Tool Reference section with content from the official WAVE documentation
-4. Provide specific details in the TDM Solution section based on your issue and PR
+4. Provide specific details in the Project Team Solution section based on your issue and PR
 5. Add actual screenshot URLs to replace `IMAGE_URL` placeholders
 6. Add all contributor GitHub handles in the Credits section (wiki page author, PR author and reviewers)
 7. Remove or add screenshot sections as needed
@@ -70,15 +70,15 @@ WAVE Tool's Reference material on [REPLACE WITH WAVE ERROR NAME] may not specifi
 > ```
 
 
-## TDM Error guidance
+## Project Team Error guidance
 
-The following material covers how the TDM team has provided a solution to the [Error] WAVE error.
+The following material covers how the Project Team has provided a solution to the [Error] WAVE error.
 
-### TDM Calculator Page Details
-- TDM Page name: [INSERT PAGE NAME or "ALL"]
-- TDM Staging URL: [INSERT URL or "N/A"]
+### Project Team Calculator Page Details
+- Project Page name: [INSERT PAGE NAME or "ALL"]
+- Project Staging URL: [INSERT URL or "N/A"]
 - Required User Role: [INSERT ONE OF: Visitor, Logged in user, Admin, Security Admin]
-### TDM Calculator Issue and PR details
+### Project Team Issue and PR details
 - Related GitHub Issue(s):
   - [INSERT ISSUE URL]
 - Related Pull Request(s):
@@ -86,7 +86,7 @@ The following material covers how the TDM team has provided a solution to the [E
 - React Component(s)
   - [INSERT PATH: e.g. path/to/Component.jsx]
 
-### TDM Solution
+### Project Team Solution
 
 #### What is the specific problem that was occurring?
 <!-- Author Instructions: Add a detailed explanation of the specific accessibility problem, including context about when/where it occurs, what elements are involved, and why it's problematic for assistive technology users -->
