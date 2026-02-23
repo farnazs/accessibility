@@ -29,7 +29,3 @@
     - no issue
       - PR: https://github.com/hackforla/tdm-calculator/pull/2786
 
----
-
-## Other Related Pages
-- https://github.com/hackforla/tdm-calculator/wiki/Accessibility-Audits  
