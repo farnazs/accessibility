@@ -12,10 +12,18 @@
 
 ### Known Issues and Solutions DRAFTS 
 
-| Category | Name | DOM snippit | Page Found on | Issue | PR | Solution
-| -- | -- | -- | -- | -- | -- | -- |
-Errors | [Missing form label](error-missing-form-label.md) | missing | TRUE | TRUE | TRUE | missing |
+Category | Name | DOM snippit | Page Found On | Issue | PR | Solution
+-- | -- | -- | -- | -- | -- | --
+Errors | [Missing form label](error-missing-form-label.md) | missing | TRUE | TRUE | TRUE | missing
 Alerts | [Skipped heading level](alert-skipped-heading-level.md) | missing | TRUE | TRUE | TRUE | missing
+Alerts | [Missing fieldset](alert-missing-fieldset.md) | missing | FALSE | FALSE | FALSE | missing
+Alerts | [Possible heading](alert-possible-heading.md) | missing | FALSE | FALSE | FALSE | missing
+Alerts | [Layout table](alert-layout-table.md) | missing | FALSE | FALSE | FALSE | missing
+Alerts | [Redundant link](alert-redundant-link.md) | missing | FALSE | FALSE | FALSE | missing
+Alerts | [Link to PDF document](alert-link-to-pdf-document.md) | missing | FALSE | FALSE | FALSE | missing
+ARIA | [ARIA label](aria-aria-label.md) | missing | FALSE | FALSE | FALSE | missing
+Contrast Errors | [Very low contrast](contrast-errors-very-low-contrast.md) | missing | FALSE | FALSE | FALSE | missing
+
 
 - Contrast Errors
   - 🚨 todo - add issues here
