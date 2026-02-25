@@ -51,7 +51,7 @@ WAVE Tool's Reference material on Skipped heading level may not specifically add
 
 The following material covers how the Project Team has provided a solution to the [Error] WAVE error.
 
-### Project Page Details
+### Project Page Details 1
 - Project Page name: Privacy Policy
 - Project Staging URL: http://tdm-dev.azurewebsites.net/privacypolicy
 - Requires sign in: FALSE
@@ -59,7 +59,7 @@ The following material covers how the Project Team has provided a solution to th
    - Can access page directly from URL: TRUE
    - Accepts URL parameters: FALSE
 
-### Project Team Issue and PR details
+### Project Team Issue and PR details 1
 - Related GitHub Issue(s):
   - https://github.com/hackforla/tdm-calculator/issues/2716
 - Related Pull Request(s):
@@ -67,7 +67,7 @@ The following material covers how the Project Team has provided a solution to th
 - React Component(s)
   - [INSERT PATH: e.g. path/to/Component.jsx]
  
-### Project Page Details
+### Project Page Details 2
 - Project Page name: Forgot Password
 - Project Staging URL: https://tdm-dev.azurewebsites.net/forgotpassword
 - Requires sign in: FALSE
@@ -75,7 +75,7 @@ The following material covers how the Project Team has provided a solution to th
    - Can access page directly from URL: TRUE
    - Accepts URL parameters: FALSE
  
-### Project Team Issue and PR details
+### Project Team Issue and PR details 2
 - Related GitHub Issue(s):
   - https://github.com/hackforla/tdm-calculator/issues/2701
 - Related Pull Request(s):
@@ -83,7 +83,7 @@ The following material covers how the Project Team has provided a solution to th
 - React Component(s)
   - [INSERT PATH: e.g. path/to/Component.jsx]
  
-### Project Page Details
+### Project Page Details 3
 - Project Page name: Manage Submissions
 - Project Staging URL: https://tdm-dev.azurewebsites.net/managesubmissions
 - Requires sign in: TRUE
@@ -91,7 +91,7 @@ The following material covers how the Project Team has provided a solution to th
    - Can access page directly from URL: FALSE
    - Accepts URL parameters: FALSE
 
-### Project Team Issue and PR details
+### Project Team Issue and PR details 3
 - Related GitHub Issue(s):
   - https://github.com/hackforla/tdm-calculator/issues/2705
 - Related Pull Request(s):
